@@ -1,0 +1,10 @@
+yfinance
+streamlit
+transformers
+bs4
+scikit_learn
+hopsworks
+seaborn
+nltk
+emoji
+vaderSentiment
